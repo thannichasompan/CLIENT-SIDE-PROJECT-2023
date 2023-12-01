@@ -1,0 +1,323 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Ni",
+      "pin": "5678",
+      "historys": [
+        {
+          "round": 1,
+          "score": 0,
+          "mode": "Easy"
+        },
+        {
+          "round": 2,
+          "score": 0,
+          "mode": "Medium"
+        },
+        {
+          "round": 3,
+          "score": 0,
+          "mode": "Hard"
+        },
+        {
+          "round": 4,
+          "score": 0,
+          "mode": "Hard"
+        },
+        {
+          "round": 5,
+          "score": 0,
+          "mode": "Medium"
+        }
+      ]
+    }
+  ],
+  "ansE": [
+    {
+      "number": 1,
+      "picture": "./image/Easy/bear.jpg",
+      "answer": [
+        "หมี",
+        "bear"
+      ]
+    },
+    {
+      "number": 2,
+      "picture": "./image/Easy/butterfly.jpg",
+      "answer": [
+        "ผีเสื้อ",
+        "butterfly"
+      ]
+    },
+    {
+      "number": 3,
+      "picture": "./image/Easy/cat.jpg",
+      "answer": [
+        "แมว",
+        "cat",
+        "มะเเมว"
+      ]
+    },
+    {
+      "number": 4,
+      "picture": "./image/Easy/dog.jpg",
+      "answer": [
+        "หมา",
+        "สุนัข",
+        "dog"
+      ]
+    },
+    {
+      "number": 5,
+      "picture": "./image/Easy/hippo.jpg",
+      "answer": [
+        "ฮิปโป",
+        "hippo",
+        "ฮิปโปโปเตมัด"
+      ]
+    },
+    {
+      "number": 6,
+      "picture": "./image/Easy/penguin.jpg",
+      "answer": [
+        "เพนกวิน",
+        "penguin",
+        "นกเพนกวิน"
+      ]
+    },
+    {
+      "number": 7,
+      "picture": "./image/Easy/seal.jpg",
+      "answer": [
+        "แมวน้ำ",
+        "seal",
+        "อุ๋ง"
+      ]
+    },
+    {
+      "number": 8,
+      "picture": "./image/Easy/squirrel.jpg",
+      "answer": [
+        "กระรอก",
+        "squirrel"
+      ]
+    },
+    {
+      "number": 9,
+      "picture": "./image/Easy/tiger.jpg",
+      "answer": [
+        "เสือ",
+        "tiger"
+      ]
+    },
+    {
+      "number": 10,
+      "picture": "./image/Easy/whale.jpg",
+      "answer": [
+        "วาฬ",
+        "whale",
+        "ปลาวาฬ"
+      ]
+    }
+  ],
+  "ansM": [
+    {
+      "number": 1,
+      "picture": "./image/Medium/bat.jpg",
+      "answer": [
+        "ค้างคาว",
+        "bat"
+      ]
+    },
+    {
+      "number": 2,
+      "picture": "./image/Medium/camel.jpg",
+      "answer": [
+        "อูฐ",
+        "camel"
+      ]
+    },
+    {
+      "number": 3,
+      "picture": "./image/Medium/cat.jpg",
+      "answer": [
+        "แมว",
+        "cat",
+        "มะเเมว"
+      ]
+    },
+    {
+      "number": 4,
+      "picture": "./image/Medium/cow.jpg",
+      "answer": [
+        "วัว",
+        "cow"
+      ]
+    },
+    {
+      "number": 5,
+      "picture": "./image/Medium/chichick.jpg",
+      "answer": [
+        "ไก่",
+        "chicken"
+      ]
+    },
+    {
+      "number": 6,
+      "picture": "./image/Medium/dog.jpg",
+      "answer": [
+        "หมา",
+        "dog",
+        "หมาปั๊ก",
+        "สุนัข"
+      ]
+    },
+    {
+      "number": 7,
+      "picture": "./image/Medium/duck.jpg",
+      "answer": [
+        "เป็ด",
+        "duck"
+      ]
+    },
+    {
+      "number": 8,
+      "picture": "./image/Medium/flamingo.jpg",
+      "answer": [
+        "ฟลามิงโก้",
+        "flamingo",
+        "นกฟลามิงโก้"
+      ]
+    },
+    {
+      "number": 9,
+      "picture": "./image/Medium/monkey.jpg",
+      "answer": [
+        "ลิง",
+        "monkey"
+      ]
+    },
+    {
+      "number": 10,
+      "picture": "./image/Medium/rabbit.jpg",
+      "answer": [
+        "กระต่าย",
+        "rabbit"
+      ]
+    }
+  ],
+  "ansH": [
+    {
+      "number": 1,
+      "picture": "./image/Hard/chicken.jpg",
+      "answer": [
+        "ไก่",
+        "chicken",
+        "กุ๊กไก่",
+        "sheep",
+        "แกะ",
+        "ไก่แกะ",
+        "แกะไก่",
+        "แกะผสมไก่",
+        "ไก่ผสมแกะ"
+      ]
+    },
+    {
+      "number": 2,
+      "picture": "./image/Hard/cow.jpg",
+      "answer": [
+        "วัว",
+        "cow",
+        "วัวนม",
+        "แมลงเต่าทอง ",
+        "Ladybug",
+        "เต่าทอง",
+        "แมลงเต่าทองผสมวัว",
+        "วัวผสมแมลงเต่าทอง"
+      ]
+    },
+    {
+      "number": 3,
+      "picture": "./image/Hard/duck.jpg",
+      "answer": [
+        "ห่าน",
+        "goose"
+      ]
+    },
+    {
+      "number": 4,
+      "picture": "./image/Hard/fox.jpg",
+      "answer": [
+        "สุนัขจิ้งจอก",
+        "fox",
+        "จิ้งจอก",
+        "หมาจิ้งจอก"
+      ]
+    },
+    {
+      "number": 5,
+      "picture": "./image/Hard/monkey.jpg",
+      "answer": [
+        "ลิง",
+        "กระรอก",
+        "squirrel",
+        "กระรอกผสมลิง",
+        "ลิงผสมกระรอก",
+        "monkey"
+      ]
+    },
+    {
+      "number": 6,
+      "picture": "./image/Hard/owl.jpg",
+      "answer": [
+        "นก",
+        "นกฮูก",
+        "owl"
+      ]
+    },
+    {
+      "number": 7,
+      "picture": "./image/Hard/pig.jpg",
+      "answer": [
+        "หมู",
+        "เป็ด",
+        "duck",
+        "เป็ดผสมหมู",
+        "หมูผสมเป็ด",
+        "piggy",
+        "pig"
+      ]
+    },
+    {
+      "number": 8,
+      "picture": "./image/Hard/rabbit.jpg",
+      "answer": [
+        "กระต่าย",
+        "rabbit"
+      ]
+    },
+    {
+      "number": 9,
+      "picture": "./image/Hard/tiger.jpg",
+      "answer": [
+        "เสือ",
+        "เสือโคร่ง",
+        "กระรอก",
+        "squirrel",
+        "เสือผสมกระรอก",
+        "กระรอกผสมเสือ",
+        "tiger"
+      ]
+    },
+    {
+      "number": 10,
+      "picture": "./image/Hard/grasshopper.jpg",
+      "answer": [
+        "ตั๊กแตน",
+        "grasshopper",
+        "ตั๊กแตนตำข้าว"
+      ]
+    }
+  ]
+}
